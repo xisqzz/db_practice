@@ -22,3 +22,11 @@
 
 ![image](https://github.com/xisqzz/db_practice/assets/144116612/bd0e13f7-1048-4ff1-b250-784230b31e93)
 
+## Сортировка 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/6e0d868b-6cde-4e77-b04e-9cc3a2f53b1a)
+
+## Результат 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/a59fde62-dd9b-4390-b87a-be3672e46da5)
+
