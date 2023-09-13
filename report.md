@@ -30,3 +30,20 @@
 
 ![image](https://github.com/xisqzz/db_practice/assets/144116612/a59fde62-dd9b-4390-b87a-be3672e46da5)
 
+
+##Задание 13.09.2023
+
+##Задание 1 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/c6294f5d-81c4-4fe7-9b0d-03a75eb48d7e)
+
+##Задание 2 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/96a40f7a-1a37-485b-9c73-2465caf4bad5)
+
+##Задание 3 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/50cb6a50-ff7c-46f6-bc92-cff07c419089)
+
+
+
