@@ -45,5 +45,21 @@
 
 ![image](https://github.com/xisqzz/db_practice/assets/144116612/50cb6a50-ff7c-46f6-bc92-cff07c419089)
 
+##Задания 19.09.2023
 
+##Задание 1 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/849cf873-e597-4a2a-b6a1-adf1849332de)
+
+##Задание 2 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/287890b9-0e8f-4ad3-b2b1-f8fa72488d58)
+
+##Задание 3 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/1d81f861-a670-49ad-b183-952c0dbc8723)
+
+##Задание 4 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/bbfc1c96-dde0-4349-b093-96a67798315a)
 
