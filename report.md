@@ -63,3 +63,7 @@
 
 ![image](https://github.com/xisqzz/db_practice/assets/144116612/bbfc1c96-dde0-4349-b093-96a67798315a)
 
+##Задание 5 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/a42231ed-19a6-4db9-9a6f-4d70dedfadb1)
+
