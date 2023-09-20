@@ -63,4 +63,13 @@
 
 ![image](https://github.com/xisqzz/db_practice/assets/144116612/bbfc1c96-dde0-4349-b093-96a67798315a)
 
+##Задание 5 
+
+IN 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/9e3f4740-e7f9-45af-b091-ac8fb6468a75)
+
+EXISTS
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/18c42724-2b06-4495-a1c4-be80e1642d5c)
 
