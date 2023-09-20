@@ -73,3 +73,17 @@ EXISTS
 
 ![image](https://github.com/xisqzz/db_practice/assets/144116612/18c42724-2b06-4495-a1c4-be80e1642d5c)
 
+##Задания 20.09.2023
+
+##Задание 1 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/dcffc51e-d158-4e49-8ed9-d073ac3bd056)
+
+##Задание 2 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/2f7ee40c-eb7c-49b4-8c82-6b57e7020c26)
+
+##Задание 3 
+
+
+
