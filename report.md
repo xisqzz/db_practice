@@ -85,5 +85,54 @@ EXISTS
 
 ##Задание 3 
 
+26.09.2023
+
+Задание 1
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/192dd18a-82e5-4586-8638-d3131d1410d8)
+
+Задание 2 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/e763743e-3929-4355-b44e-8e77e1dbe753)
+
+Задание 3 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/1007c274-b6c0-464c-ae9f-15977c2fb1a0)
+
+Задание 4 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/59be8aff-8e65-49ea-84ae-5c7988c27e67)
+
+Задание 5 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/a94b958b-b5d1-4aa8-b8e7-75ae5708095c)
+
+Задание 7
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/430d4220-4250-48a9-b0cf-10d998777f20)
+
+Задание 8 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/cafee5b4-ece3-49d1-bb2a-68fe035d5018)
+
+Задание 10
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/ddf7fdb8-2b33-4942-bc75-1aba785aca08)
+
+Задание 4
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/3e1f0b77-46d7-4a6d-a703-e746e63ffee6)
+
+Задание 6 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/bbeb9d07-54a2-4e1c-85ed-69d86ef97804)
+
+Задание 8 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/a4cf130c-9655-4993-95c8-d182b9156067)
+
+Задание 9 
+
+![image](https://github.com/xisqzz/db_practice/assets/144116612/1e904e16-11f2-450a-89cc-851a78e406e2)
 
 
