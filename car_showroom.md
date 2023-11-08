@@ -42,3 +42,19 @@ CREATE TABLE client (
 	age INTEGER
 );
 
+INSERT INTO car_showroom (id, city, dealer, orders) VALUES 
+(1, 'Москва', 'Автодилер Mazda', 0), (2, 'Москва', 'Автодилер Mercedes-Benz', 0),
+(3, 'Москва', 'Автодилер Kia', 2), (4, 'Новосибирск', 'Автодилер Porshe', 2), (5, 'Новосибирск', 'Автодилер Kia', 0), (6, 'Новосибирск', 'Автодилер Tesla', 4)
+
+INSERT INTO dealer (dealer_id, dealer_city, dealer_brand, address) 
+VALUES (1, 'Москва', 'Mazda', 'Ломоносва 16'),
+(2, 'Москва', 'Mercedes-Benz', 'Ленина 5'),
+(3, 'Москва', 'Kia', 'Красный проспект 15'),
+(4, 'Новосибирск', 'Porshe', 'Ленинградский проспект 5'),
+(5, 'Новосибирск', 'Kia', 'Гоголя 1'),
+(6, 'Новосибирск', 'Tesla', 'Мира 43')
+
+
+
+
+
