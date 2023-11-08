@@ -1,10 +1,10 @@
-``CREATE TABLE Students (
+CREATE TABLE Students (
     StudentID SERIAL PRIMARY KEY,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
     Age INT
 );
-``
+
 
 CREATE TABLE dealer (
     dealer_id SERIAL PRIMARY KEY,
