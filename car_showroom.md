@@ -1,9 +1,4 @@
-CREATE TABLE Students (
-    StudentID SERIAL PRIMARY KEY,
-    FirstName VARCHAR(50),
-    LastName VARCHAR(50),
-    Age INT
-);
+CREATE TABLE car_showroom (id SERIAL PRIMARY KEY, city VARCHAR(50), dealer VARCHAR(50), orders INTEGER)
 
 
 CREATE TABLE dealer (
@@ -28,7 +23,7 @@ CREATE TABLE characteristics (
 	drive_unit VARCHAR(50)
 );
 
-CREATE TABLE order (
+CREATE TABLE orders (
      order_id SERIAL PRIMARY KEY,
 	client_id INTEGER,
 	dealer_id INTEGER,
