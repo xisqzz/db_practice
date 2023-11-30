@@ -49,6 +49,21 @@ VALUES (1, 'Москва', 'Mazda', 'Ломоносва 16'),
 (5, 'Новосибирск', 'Kia', 'Гоголя 1'),
 (6, 'Новосибирск', 'Tesla', 'Мира 43')
 
+INSERT INTO auto (brand_id, brand_auto, count, model, price) VALUES 
+(1, 'Mazda', 10, 'RX-8', 800000),(2, 'Mercedes-Benz', 6, 'S-Class', 2000000), (3, 'Kia', 20, 'Rio', 1000000),
+(4, 'Porshe', 2, '911', 13000000), (5, 'Kia', 7, 'Octawia', 700000),
+(6, 'Tesla', 10, 'Model-y', 5000000)
+
+INSERT INTO characteristics (year, mileage, car_body, drive_unit) VALUES 
+(2008, 10000, 'full', 'sedan'), (2016, 100000, 'full', 'sedan'), (2005, 250000, 'rear', 'sedan'),
+(2022, 1000, 'full', 'sedan'), (2010, 300000, 'rear', 'sedan'), (2000, 400000, 'front', 'sedan')
+
+INSERT INTO client (client_id, name, last_name, age) VALUES 
+(1, 'Артем', 'Митраков', 19), (2, 'Матвей', 'Мельников', 30), (3, 'Давид', 'Килин', 66),
+(4, 'Иван', 'Джигирис', 18)
+
+
+
 
 
 
