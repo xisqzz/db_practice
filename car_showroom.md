@@ -62,7 +62,7 @@ INSERT INTO client (client_id, name, last_name, age) VALUES
 (1, 'Артем', 'Митраков', 19), (2, 'Матвей', 'Мельников', 30), (3, 'Давид', 'Килин', 66),
 (4, 'Иван', 'Джигирис', 18)
 
-trigger 6: identify clients with age over 25 interested in sedans 
+trigger identify clients with age over 25 interested in sedans 
 
 CREATE OR REPLACE FUNCTION identify_clients()
 RETURNS TRIGGER AS $$
