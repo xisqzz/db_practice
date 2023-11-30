@@ -62,8 +62,42 @@ INSERT INTO client (client_id, name, last_name, age) VALUES
 (1, 'Артем', 'Митраков', 19), (2, 'Матвей', 'Мельников', 30), (3, 'Давид', 'Килин', 66),
 (4, 'Иван', 'Джигирис', 18)
 
+trigger 6: identify clients with age over 25 interested in sedans 
 
+CREATE OR REPLACE FUNCTION identify_clients()
+RETURNS TRIGGER AS $$
+BEGIN
+    IF NEW.age > 25 THEN
+        INSERT INTO interested_clients (client_id)
+        VALUES (NEW.client_id);
+    END IF;
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
 
+CREATE TRIGGER after_insert_client
+AFTER INSERT ON client
+FOR EACH ROW
+EXECUTE FUNCTION identify_clients();
+
+trigger to track changes in the auto table
+
+CREATE OR REPLACE FUNCTION track_auto_changes()
+RETURNS TRIGGER AS $$
+BEGIN
+    IF TG_OP = 'UPDATE' THEN
+        INSERT INTO auto_history (brand_id, brand_auto, count, model, price, modification_time)
+        VALUES (OLD.brand_id, OLD.brand_auto, OLD.count, OLD.model, OLD.price, NOW());
+    END IF;
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER track_auto_changes_trigger
+AFTER UPDATE
+ON auto
+FOR EACH ROW
+EXECUTE FUNCTION track_auto_changes();
 
 
 
